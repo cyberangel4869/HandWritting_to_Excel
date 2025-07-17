@@ -1,0 +1,2 @@
+# HandWritting_to_Excel
+基于python的Excel表格辅助系统，针对手写货物单等手记材料的数据录入，旨在为牛马们减少机械性的录入填表工作。
